@@ -1,0 +1,36 @@
+<style>
+  table{
+    border-collapse: collapse;
+    
+    margin-left: auto;
+    margin-right: auto;
+  }
+  th {
+  background-color: Red;
+  }
+  
+  </style>
+<table>
+  <tr>
+    <th>Grade</th>
+    <th>Grade Point</th>
+    <th>Numerical Scale</th>
+  </tr>
+    
+   <td></td>
+
+  <tr>
+    <td>A</td>
+    <td>4.0</td>
+    <td>90%</td>
+  </tr>
+  
+  <tr>
+    <td>B</td>
+    <td>3.0</td>
+    <td>75%</td>
+  </tr>
+  
+
+      
+</table> 
